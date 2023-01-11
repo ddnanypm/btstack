@@ -52,6 +52,7 @@ extern "C" {
 #include "btstack_defines.h"
 #include "hci.h"
 
+
 typedef struct {
     btstack_linked_item_t  item;
     bd_addr_t      address;
